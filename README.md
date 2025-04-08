@@ -1,0 +1,1 @@
+# docker-firestore-emulator
